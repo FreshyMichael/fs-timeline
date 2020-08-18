@@ -1,4 +1,4 @@
-<h2># FS Timeline<h2>
+<h2># Divi Timeline by FreshySites<h2>
 <hr>
 <p>Timeline Post Type, with scroll effects output via shortcode</p>
 
